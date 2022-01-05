@@ -1,0 +1,11 @@
+- name: C
+  percentage: 80
+  color: danger
+
+- name: Swift
+  percentage: 60
+  color:
+
+- name: Python
+  percentage: 70
+  color: secondary
