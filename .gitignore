@@ -13,3 +13,5 @@ Gemfile.lock
 
 # Assets
 _assets/
+*.plist
+*.mindnode
